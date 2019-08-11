@@ -1,0 +1,4 @@
+rencana aplikasi 
+- laravel
+- git 
+- database
