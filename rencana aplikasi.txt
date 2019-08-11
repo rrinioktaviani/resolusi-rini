@@ -1,0 +1,6 @@
+rencana aplikasi 
+- laravel
+- git 
+- database
+- template 
+- rancanagan database
