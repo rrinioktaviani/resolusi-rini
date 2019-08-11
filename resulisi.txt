@@ -1,6 +1,6 @@
 Resolusi rini
 - Konsiste untuk mengerjakan skripsi
-- belajar laravel 
 - belajar github
 - reivisi setiap hari minimal satu jam
+- belajar coding
 
