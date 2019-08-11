@@ -1,0 +1,4 @@
+Resolusi rini
+- Konsiste untuk mengerjakan skripsi
+-belajar laravel 
+-belajar github
